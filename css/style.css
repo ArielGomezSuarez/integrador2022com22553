@@ -11,6 +11,10 @@ div.relative{
   
 }
 
+.punteado{
+  border-bottom-style: dotted;  
+}
+
 div.absolute{
   position: absolute;
   top: 30%;
